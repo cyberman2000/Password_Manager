@@ -1,0 +1,4 @@
+random2
+pyfiglet
+os-sys
+colorama
