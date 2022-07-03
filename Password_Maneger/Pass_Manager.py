@@ -7,8 +7,8 @@ import sys
 from colorama import *
 #pip install colorama
 print(Fore.BLUE + pyfig.figlet_format("Pass Manager"))
-print(Fore.YELLOW + """                   Created Created by CyberMan                      """)
-print("""                             Welcome                                   """)
+print(Fore.YELLOW + """                    Created by CyberMan                      """)
+print("""                          Welcome                                   """)
 
 print(Fore.GREEN + "1.Create a password for Email or Gmail ")
 print("2.Create a password for Public WebSite ")
